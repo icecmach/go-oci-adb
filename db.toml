@@ -1,0 +1,6 @@
+service = "_high.adb.oraclecloud.com"
+username = "ADMIN"
+server = "adb.ca-toronto-1.oraclecloud.com"
+port = "1522"
+password = ""
+walletLocation = "C:\\Users\\icecreammachine\\Documents\\OCI\\Wallet_"
